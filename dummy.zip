@@ -1,0 +1,25 @@
+// This is a JavaScript file that does nothing
+
+// Empty function
+function doNothing() {
+  // This function is empty and does nothing
+}
+
+// Unused variable
+let unusedVariable;
+
+// Empty object
+const emptyObject = {};
+
+// Empty array
+const emptyArray = [];
+
+// Self-invoking function that does nothing
+(function() {
+  // This immediately invoked function expression (IIFE) does nothing
+})();
+
+// Commented out code
+// console.log("This line won't execute");
+
+// End of the do-nothing JavaScript file
